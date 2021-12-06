@@ -12,4 +12,8 @@
  🔑 JS is based on JRE (javascript run time engine), releases controlled by ecma script org
  🔑 JS ws only used by browsers initially until node.js was released
  🔑 js was initially only a interpreted (line by line compilation, faster but less optimized) language but now its a compiled (slower, more optimized, compiles snippet of code by converting it to bits) language too ==> Basically js is JIT (just in time) compiled 
+
 ```
+
+🔑 [AST Explorer.net](https://astexplorer.net/)
+🔑 [Replit Forked](https://replit.com/@DionneNoellaBar/CrioDoJSFoundationAug21#index.js)
